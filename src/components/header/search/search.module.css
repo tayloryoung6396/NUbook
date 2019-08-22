@@ -1,5 +1,0 @@
-.search:focus-within {
-  .searchIcon {
-    @apply text-icon;
-  }
-}
